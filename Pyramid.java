@@ -9,7 +9,6 @@ public class Pyramid {
 				if(i+j==4 || i+j==6 && i>1 || i+j==8)
 				{
 					//System.out.print("*");
-					System.out.print(i+ " ");
 				}
 				else {
 					System.out.print(" ");
